@@ -28,7 +28,7 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. For example: 
 
-![](../horst-champions-trailhead.png)
+![Picture from workshop](../horst-champions-trailhead.png)
 
 ![IMG_8600_Original](https://user-images.githubusercontent.com/70522445/179058604-68251a78-bb60-4de6-9e05-fb0c51c8dbed.jpg)
 
