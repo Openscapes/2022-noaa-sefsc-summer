@@ -52,7 +52,7 @@ Add:
 
 **Adyan Rios** (@AdyanRios-NOAA), SEFSC
 
-**Molly Stevens** (), SEFSC
+**Molly Stevens** (@mollystevens-noaa), SEFSC
 
 
 ## More about Openscapes and the Champions program:
