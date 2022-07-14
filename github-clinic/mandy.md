@@ -10,6 +10,10 @@ We can make words **bold** or *italic*.
 
 ### What does this do?  
 
+#### 4 hashes!!!
+
+#######################  INFINITY HASHES !!!!!
+
 We can make lists – *note that lists need a carriage return before list items!*
 
 1. bananas
