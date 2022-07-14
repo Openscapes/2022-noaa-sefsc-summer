@@ -15,7 +15,7 @@ We can make lists – *note that lists need a carriage return before list items!
 2. tamales
 3. cakes
 4. kombucha
-5. poke bowls
+5. poke bowl
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
