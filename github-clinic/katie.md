@@ -5,6 +5,7 @@ Working on GitHub.com, we contribute changes through **commits**. Let's create s
 This file is written in Markdown, which formats text. For example, with Markdown:
 
 We can make words **bold** or *italic*.
+I figured out my *password*.  Thanks **Julia**!
 
 ## We can make headers.
 
