@@ -14,6 +14,7 @@ We can make lists – *note that lists need a carriage return before list items!
 2. pliers
 3. clamp
 4. nails
+5. drill
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
