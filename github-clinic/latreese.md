@@ -30,6 +30,8 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](../horst-champions-trailhead.png)
 
+![IMG_8600_Original](https://user-images.githubusercontent.com/70522445/179058604-68251a78-bb60-4de6-9e05-fb0c51c8dbed.jpg)
+
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
 ## Your turn
