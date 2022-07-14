@@ -11,6 +11,9 @@ We can make words **bold** or *italic*.
 Adding an emoji!
 That is so funny! :joy:
 
+Do some highlighting
+I need to highlight these ==very important words==.
+
 We can make lists – *note that lists need a carriage return before list items!*
 
 1. bananas
