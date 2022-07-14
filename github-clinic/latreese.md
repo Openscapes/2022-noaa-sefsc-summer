@@ -10,7 +10,7 @@ We can make words **bold** or *italic*.
 
 We can make lists – *note that lists need a carriage return before list items!*
 
-## Food I Like
+## Food I Like:
 
 1. bananas
 2. tamales
