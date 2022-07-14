@@ -11,6 +11,26 @@ We can make words **bold** or *italic*.
 ### Three Hashes
 #### Four Hashes
 
+superscript^2^  
+Subscript~2~
+~~strikethrough~~
+'Verbatim code'
+
+* unordered list
+* item 1
+* item 2
+  + sub-item 1
+
+
+inline math: $E = mc^{2}$
+
+display math:
+
+$$E = mc^{2}$$
+
+
+
+
 We can make lists – *note that lists need a carriage return before list items!*
 
 1. bananas
