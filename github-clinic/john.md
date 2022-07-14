@@ -11,8 +11,8 @@ We can make words **bold** or *italic*.
 ### Three Hashes
 #### Four Hashes
 
-superscript^2^  
-Subscript~2~
+superscript^2  
+Subscript~2
 ~~strikethrough~~
 'Verbatim code'
 
