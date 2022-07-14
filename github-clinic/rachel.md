@@ -13,9 +13,9 @@ We can make lists – *note that lists need a carriage return before list items!
 1. bananas
 2. tamales
 3. cakes
-    > 3.1. *carrot cake* [recipe](https://www.inspiredtaste.net/25753/carrot-cake-recipe/)
+    >  * *carrot cake* [recipe](https://www.inspiredtaste.net/25753/carrot-cake-recipe/)
     
-    > 3.2. *chocolate lava cake* [recipe](https://www.foodandwine.com/recipes/molten-chocolate-cakes)
+    >  * *chocolate lava cake* [recipe](https://www.foodandwine.com/recipes/molten-chocolate-cakes)
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
