@@ -10,7 +10,12 @@ This file is written in Markdown, which formats text. For example, with Markdown
 We can make words **bold** or *italic*.
 
 **Bold** is with two asterisk.
+
 *Italic* is with one asterisk.
+
+Do I always need double space to enter or 
+
+just when using asterisks. Yes always.
 
 ## We can make headers.
 
