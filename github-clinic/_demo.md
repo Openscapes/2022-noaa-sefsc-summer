@@ -4,6 +4,8 @@ Working on GitHub.com, we contribute changes through **commits**. Let's create s
 
 We can make words **bold** or *italic*.
 
+Another *italic*
+
 ## We can make headers.
 
 ### Header with 3 hashmarks
