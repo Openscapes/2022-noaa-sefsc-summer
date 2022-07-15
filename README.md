@@ -19,7 +19,7 @@ Agendas are accessible to Cohort participants in our [Cohort Google Drive Folder
 
 Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 ----| ------------------|----------------------|--------------------------------
-06/30 | 1. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/bsilt) | Pathway trailhead; create GitHub accounts 
+06/30 | 1. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | Pathway trailhead; create GitHub accounts 
 07/14 | 2. GitHub Clinic: publishing and project management <br> | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Shared organizing with GitHub
 07/28 | 3. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Onboarding documentation 
 08/11 | 4. Open communities and coding strategies for future us | [coding with communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Pathways preparation
